@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-identity-cost-analysis",
+  "version": "1.0.0",
+  "description": "Gas cost analysis for blockchain-based digital identit",
+  "scripts": {
+    "test": "npx hardhat test",
+    "measure": "npx hardhat run scripts/measureGas.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.22.0"
+  }
+}

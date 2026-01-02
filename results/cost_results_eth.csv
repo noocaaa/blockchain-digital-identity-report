@@ -1,0 +1,7 @@
+timestamp,gas_price_gwei,operation,case,processed_bytes,gasUsed,cost_eth
+2025-12-31T04:50:41.502Z,1.88,upload,full_identity,all,45801,0.0000858769
+2025-12-31T04:50:41.502Z,1.88,verify,age_check,1,24545,0.0000460219
+2025-12-31T04:50:41.502Z,1.88,verify,age_plus_nationality,9,27521,0.0000516019
+2025-12-31T04:50:41.502Z,1.88,verify,border_control,24,33101,0.0000620644
+2025-12-31T04:50:41.502Z,1.88,verify,university_access,64,47981,0.0000899644
+2025-12-31T04:50:41.502Z,1.88,verify,full_kyc,141,76625,0.0001436719

@@ -1,0 +1,7 @@
+operation,case,processed_bytes,gasUsed
+upload,full_identity,all,45801
+verify,age_check,1,24545
+verify,age_plus_nationality,9,27521
+verify,border_control,24,33101
+verify,university_access,64,47981
+verify,full_kyc,141,76625
